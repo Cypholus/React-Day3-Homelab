@@ -6,7 +6,7 @@ function App() {
   return (
     <div >
       <Appbar/>
-      <br></br>
+      <br>  </br>
       <Image/>
     </div>
   );
